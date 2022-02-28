@@ -1,0 +1,19 @@
+id: P2B1AA309
+initial_creation_type: input
+source_metadata:
+  title: Mindfulness Series
+  language: en
+  description: 'Texts about mindfulness (smṛti; dran pa):'
+  volume:
+    015c43f9a46c4f7dac8e3ec608591a8b:
+      title: Advice for Hor Özer
+      parent: Advice
+    86fd8db006084a94ba87045103405f4d:
+      title: 'Mindfulness: The Mirror of the Mind'
+      parent: Advice
+    00e66309070443e9831725b796c711f8:
+      title: 'Rain of Accomplishments: A Song that Incorporates the Four Mindfulnesses
+        from an Instruction on the View of the Middle Way'
+      parent: Advice
+created_at: '2022-03-01T04:46:04.309951'
+last_modified_at: '2022-03-01T04:46:04.309957'
